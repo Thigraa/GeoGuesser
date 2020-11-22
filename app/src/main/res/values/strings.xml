@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Geo Guesser</string>
+    <string name="question_text">A ConstrainLayout is an example of a Layout</string>
+    <string name="progress_text">Question 1 of 10</string>
+    <string name="true_text">TRUE</string>
+    <string name="false_text">FALSE</string>
+    <string name="q1">The great Gobi desert is located in… </string>
+    <string name="q2">Which of these countries does not have access to the Mediterranean Sea?</string>
+    <string name="q3">What is the longest river in the world?</string>
+    <string name="q4">Which country is the second largest in the world in terms of population?</string>
+    <string name="q5">Which of these countries is bathed only by an ocean?</string>
+    <string name="q6">How many continents are there on Earth?</string>
+    <string name="q7">How many oceans are there on Earth?</string>
+    <string name="q8">Which of these countries is the largest in Africa??</string>
+    <string name="q9">What is the driest part of the Earth?</string>
+    <string name="q10">What is the largest island in the Mediterranean Sea?</string>
+    <string name="EXIT">EXIT</string>
+    <string name="RESTART">RESTART</string>
+</resources>
